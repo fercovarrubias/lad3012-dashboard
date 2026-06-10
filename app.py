@@ -34,8 +34,10 @@ TU_ID     = "184739"
 # Streamlit Cloud actualiza tu dashboard solo en 30 segundos.
 # ============================================================
 TU_INSIGHT = """
-Aun no he escrito mi insight. Lo agregare despues de explorar
-los graficos y filtros de mi dashboard.
+Descubrí que la región West tiene el margen más bajo del negocio con solo 2.8%, 
+casi 4 veces por debajo del benchmark del 12%, a pesar de generar $397,262 en ventas. 
+Recomiendo auditar los descuentos aplicados en West y establecer un descuento máximo 
+del 20% para recuperar el margen y acercarlo al benchmark.
 """
 
 # ============================================================
